@@ -1,0 +1,1490 @@
+273 Augmented Triad
+275 Dalic
+277 Mixolyric
+279 Poditonic
+281 Lanic
+283 Aerylitonic
+285 Zaritonic
+287 Gynimic
+291 Raga Lavangi
+293 Raga Haripriya
+295 Gyritonic
+297 Mynic
+299 Raga Chitthakarshini
+301 Raga Audav Tukhari
+303 Golimic
+305 Gonic
+307 Raga Megharanjani
+309 Palitonic
+311 Stagimic
+313 Goritonic
+315 Stodimic
+317 Korimic
+319 Epodian
+325 Messiaen Truncated Mode 6
+327 Syptitonic
+329 Mynic 2
+331 Raga Chhaya Todi
+333 Bogitonic
+335 Zanimic
+337 Koptic
+339 Zaptitonic
+341 Bothitonic
+343 Ionorimic
+345 Gylitonic
+347 Barimic
+349 Borimic
+351 Epanian
+355 Aeoloritonic
+357 Banitonic
+359 Bothimic
+361 Bocritonic
+363 Soptimic
+365 Marimic
+367 Aerodian
+369 Laditonic
+371 Rythimic
+373 Epagimic
+375 Sodian
+377 Kathimic
+379 Aeragian
+381 Kogian
+383 Logyllic
+393 Lothic
+395 Phrygian Pentatonic
+397 Aeolian Pentatonic
+399 Zynimic
+401 Epogic
+403 Raga Reva
+405 Raga Bhupeshwari
+407 Zylimic
+409 Laritonic
+411 Lygimic
+413 Ganimic
+415 Aeoladian
+419 Hon-kumoi-joshi
+421 Han-kumoi
+423 Sogimic
+425 Raga Kokil Pancham
+427 Raga Suddha Simantini
+429 Koptimic
+431 Epyrian
+433 Raga Zilaf
+435 Raga Purna Pancama
+437 Ronimic
+439 Bythian
+441 Thycrimic
+443 Kothian
+445 Gocrian
+447 Thyphyllic
+453 Raditonic
+455 Messiaen Mode 5
+457 Staptitonic
+459 Zaptimic
+461 Raga Syamalam
+463 Zythian
+465 Zoditonic
+467 Raga Dhavalangam
+469 Katyrimic
+471 Dodian
+473 Aeralimic
+475 Aeolygian
+477 Stacrian
+479 Kocryllic
+483 Kygimic
+485 Stoptimic
+487 Dynian
+489 Phrathimic
+491 Aeolyrian
+493 Rygian
+495 Bocryllic
+497 Kadimic
+499 Ionaptian
+501 Katylian
+503 Thoptyllic
+505 Sanian
+507 Moryllic
+509 Ionothyllic
+511 Chromatic Nonamode
+547 Pyrric
+549 Raga Bhavani
+551 Aeoloditonic
+553 Rothic 2
+555 Aeolycritonic
+557 Raga Abhogi
+559 Lylimic
+561 Phratic
+563 Thacritonic
+565 Aeolyphritonic
+567 Aeoladimic
+569 Mothitonic
+571 Kynimic
+573 Saptimic
+575 Ionydian
+581 Eporic 2
+583 Aeritonic
+585 Diminished Seventh
+587 Pathitonic
+589 Ionalitonic
+591 Gaptimic
+593 Saric
+595 Sogitonic
+597 Kung
+599 Thyrimic
+601 Bycritonic
+603 Aeolygimic
+605 Dycrimic
+607 Kadian
+611 Anchihoye
+613 Phralitonic
+615 Phrothimic
+617 Katycritonic
+619 Double-Phrygian Hexatonic
+621 Pyramid Hexatonic
+623 Sycrian
+625 Ionyptitonic
+627 Mogimic
+629 Aeronimic
+631 Zygian
+633 Kydimic
+635 Epolian
+637 Debussy's Heptatonic
+639 Ionaryllic
+649 Byptic
+651 Golitonic
+653 Dorian Pentatonic
+655 Kataptimic
+657 Epathic
+659 Raga Rasika Ranjani
+661 Major Pentatonic
+663 Phrynimic
+665 Raga Mohanangi
+667 Rodimic
+669 Gycrimic
+671 Stycrian
+675 Altered Pentatonic
+677 Scottish Pentatonic
+679 Lanimic
+681 Kyemyonjo
+683 Stogimic
+685 Raga Suddha Bangala
+687 Aeolythian
+689 Raga Nagasvaravali
+691 Raga Kalavati
+693 Arezzo Major Diatonic Hexachord
+695 Sarian
+697 Lagimic
+699 Aerothian
+701 Mixonyphian
+703 Aerocryllic
+709 Raga Shri Kalyan
+711 Raga Chandrajyoti
+713 Thoptitonic
+715 Messiaen Truncated Mode 2
+717 Raga Vijayanagari
+719 Kanian
+721 Raga Dhavalashri
+723 Ionadimic
+725 Raga Yamuna Kalyani
+727 Phradian
+729 Stygimic
+731 Alternating Heptamode
+733 Donian
+735 Sylyllic
+739 Rorimic
+741 Gathimic
+743 Chromatic Hypophrygian Inverse
+745 Kolimic
+747 Lynian
+749 Aeologian
+751 Scale 751
+753 Aeronimic
+755 Phrythian
+757 Ionyptian
+759 Katalyllic
+761 Ponian
+763 Doryllic
+765 Scale 765
+767 Raptygic
+785 Aeoloric
+787 Aeolapritonic
+789 Zogitonic
+791 Aeoloptimic
+793 Mocritonic
+795 Aeologimic
+797 Katocrimic
+799 Lolian
+803 Loritonic
+805 Rothitonic
+807 Raga Suddha Mukhari
+809 Dogitonic
+811 Radimic
+813 Larimic
+815 Bolian
+817 Zothitonic
+819 Augmented Inverse
+821 Aeranimic
+823 Stodian
+825 Thyptimic
+827 Mixolocrian
+829 Lygian
+831 Rodyllic
+837 Epaditonic
+839 Ionathimic
+841 Phrothitonic
+843 Molimic
+845 Raga Neelangi
+847 Ganian
+849 Aerynitonic
+851 Raga Hejjajji
+853 Epothimic
+855 Porian
+857 Aeolydimic
+859 Ultralocrian
+861 Rylian
+863 Pyryllic
+867 Phrocrimic
+869 Kothimic
+871 Locrian Double-flat 3 Double-flat 7
+873 Bagimic
+875 Locrian Double-flat 7
+877 Moravian Pistalkova
+879 Aeranyllic
+881 Aerothimic
+883 Ralian
+885 Sathian
+887 Sathyllic
+889 Borian
+891 Ionilyllic
+893 Dadyllic
+895 Aeolathygic
+905 Bylitonic
+907 Tholimic
+909 Katarimic
+911 Radian
+913 Aeolyritonic
+915 Raga Kalagada
+917 Dygimic
+919 Chromatic Phrygian Inverse
+921 Bogimic
+923 Ultraphrygian
+925 Chromatic Hypodorian
+927 Gaptyllic
+931 Raga Kalakanthi
+933 Dadimic
+935 Chromatic Dorian
+937 Stothimic
+939 Mela Senavati
+941 Mela Jhankaradhvani
+943 Aerygyllic
+945 Raga Saravati
+947 Mela Gayakapriya
+949 Mela Mararanjani
+951 Thogyllic
+953 Mela Yagapriya
+955 Ionogyllic
+957 Phronyllic
+959 Katylygic
+965 Ionothimic
+967 Mela Salaga
+969 Ionogimic
+971 Mela Gavambodhi
+973 Mela Syamalangi
+975 Messiaen Mode 4
+977 Kocrimic
+979 Mela Dhavalambari
+981 Mela Kantamani
+983 Thocryllic
+985 Mela Sucaritra
+987 Aeraptyllic
+989 Phrolyllic
+991 Aeolygic
+995 Phrathian
+997 Rycrian
+999 Ionodyllic
+1001 Badian
+1003 Ionyryllic
+1005 Radyllic
+1007 Epitygic
+1009 Katyptian
+1011 Kycryllic
+1013 Stydyllic
+1015 Ionodygic
+1017 Dythyllic
+1019 Aeranygic
+1021 Ladygic
+1023 Chromatic Decamode
+1093 Lydic
+1095 Phrythitonic
+1097 Aeraphic
+1099 Dyritonic
+1101 Stothitonic
+1103 Lynimic
+1105 Messiaen Truncated Mode 6 Inverse
+1107 Mogitonic
+1109 Kataditonic
+1111 Sycrimic
+1113 Locrian Pentatonic 2
+1115 Superlocrian Hexamirror
+1117 Raptimic
+1119 Rarian
+1123 Iwato
+1125 Ionaritonic
+1127 Eparimic
+1129 Raga Jayakauns
+1131 Honchoshi Plagal Form
+1133 Stycrimic
+1135 Katolian
+1137 Stonitonic
+1139 Aerygimic
+1141 Rynimic
+1143 Styrian
+1145 Zygimic
+1147 Epynian
+1149 Bydian
+1151 Mythyllic
+1161 Bi Yu
+1163 Raga Rukmangi
+1165 Gycritonic
+1167 Aerodimic
+1169 Raga Mahathi
+1171 Raga Manaranjani I
+1173 Dominant Pentatonic
+1175 Epycrimic
+1177 Garitonic
+1179 Sonimic
+1181 Katagimic
+1183 Sadian
+1187 Kokin-joshi
+1189 Suspended Pentatonic
+1191 Pyrimic
+1193 Minor Pentatonic
+1195 Raga Gandharavam
+1197 Minor Hexatonic
+1199 Magian
+1201 Mixolydian Pentatonic
+1203 Pagimic
+1205 Raga Siva Kambhoji
+1207 Aeoloptian
+1209 Raga Bhanumanjari
+1211 Zadian
+1213 Gyrian
+1215 Scale 1215
+1221 Epyritonic
+1223 Phryptimic
+1225 Raga Samudhra Priya
+1227 Thacrimic
+1229 Raga Simharava
+1231 Logian
+1233 Ionoditonic
+1235 Messiaen Truncated Mode 2
+1237 Salimic
+1239 Epaptian
+1241 Pygimic
+1243 Epylian
+1245 Lathian
+1247 Aeodyllic
+1251 Sylimic
+1253 Zolimic
+1255 Chromatic Mixolydian
+1257 Blues Scale
+1259 Stadian
+1261 Modified Blues
+1263 Stynyllic
+1265 Pynimic
+1267 Katynian
+1269 Katythian
+1271 Kolyllic
+1273 Ronian
+1275 Stagyllic
+1277 Zadyllic
+1279 Sarygic
+1297 Aeolic
+1299 Aerophitonic
+1301 Koditonic
+1303 Epolimic
+1305 Dynitonic
+1307 Katorimic
+1309 Pogimic
+1311 Bynian
+1315 Pyritonic
+1317 Chaio
+1319 Phronimic
+1321 Blues Minor
+1323 Ritsu
+1325 Phradimic
+1327 Zalian
+1329 Epygitonic
+1331 Raga Vasantabhairavi
+1333 Lyptimic
+1335 Elephant Scale
+1337 Epogimic
+1339 Kycrian
+1341 Madian
+1343 Zalyllic
+1349 Tholitonic
+1351 Aeraptimic
+1353 Raga Harikauns
+1355 Raga Bhavani
+1357 Takemitsu Linea Mode 2
+1359 Aerygian
+1361 Bolitonic
+1363 Gygimic
+1365 Whole Tone
+1367 Leading Whole-Tone Inverse
+1369 Boptimic
+1371 Superlocrian
+1373 Storian
+1375 Bothyllic
+1379 Kycrimic
+1381 Padimic
+1383 Pynian
+1385 Phracrimic
+1387 Locrian
+1389 Minor Locrian
+1391 Aeradyllic
+1393 Mycrimic
+1395 Locrian Dominant
+1397 Major Locrian
+1399 Syryllic
+1401 Pagian
+1403 Espla's Scale
+1405 Goryllic
+1407 Tharygic
+1417 Raga Shailaja
+1419 Raga Kashyapi
+1421 Raga Trimurti
+1423 Doptian
+1425 Ryphitonic
+1427 Lolimic
+1429 Bythimic
+1431 Phragian
+1433 Dynimic
+1435 Makam Huzzam
+1437 Sabach ascending
+1439 Rolyllic
+1443 Raga Phenadyuti
+1445 Raga Navamanohari
+1447 Mela Ratnangi
+1449 Raga Gopikavasantam
+1451 Phrygian
+1453 Aeolian
+1455 Quartal Octamode
+1457 Raga Kamalamanohari
+1459 Phrygian Dominant
+1461 Major-Minor
+1463 Scale 1463
+1465 Mela Ragavardhani
+1467 Spanish Phrygian
+1469 Epiryllic
+1471 Radygic
+1477 Raga Jaganmohanam
+1479 Mela Jalarnava
+1481 Zagimic
+1483 Mela Bhavapriya
+1485 Minor Romani
+1487 Mothyllic
+1489 Raga Jyoti
+1491 Mela Namanarayani
+1493 Lydian Minor
+1495 Messiaen Mode 6
+1497 Mela Jyotisvarupini
+1499 Bebop Locrian
+1501 Stygyllic
+1503 Padygic
+1507 Zynian
+1509 Ragian
+1511 Styptyllic
+1513 Stathian
+1515 Phrygian/Locrian Mixed
+1517 Sagyllic
+1519 Locrian/Aeolian Mixed
+1521 Stanian
+1523 Zothyllic
+1525 Sodyllic
+1527 Aeolyrigic
+1529 Kataryllic
+1531 Styptygic
+1533 Katycrygic
+1535 Mixodyllian
+1571 Lagitonic
+1573 Raga Guhamanohari
+1575 Zycrimic
+1577 Raga Chandrakauns (Kafi)
+1579 Sagimic
+1581 Raga Bagesri
+1583 Salian
+1585 Raga Khamaji Durga
+1587 Raga Rudra Pancama
+1589 Raga Rageshri
+1591 Rodian
+1593 Zogimic
+1595 Dacrian
+1597 Aeolodian
+1599 Pocryllic
+1605 Zanitonic
+1607 Epytimic
+1609 Thyritonic
+1611 Dacrimic
+1613 Thylimic
+1615 Sydian
+1617 Phronitonic
+1619 Prometheus Neapolitan
+1621 Scriabin's Prometheus
+1623 Lothian
+1625 Lythimic
+1627 Zyptian
+1629 Synian
+1631 Rynyllic
+1635 Sygimic
+1637 Syptimic
+1639 Aeolothian
+1641 Bocrimic
+1643 Locrian Natural 6
+1645 Dorian Flat 5
+1647 Polyllic
+1649 Bolimic
+1651 Asian
+1653 Minor Romani Inverse
+1655 Katygyllic
+1657 Ionothian
+1659 Maqam Shadd'araban
+1661 Gonyllic
+1663 Lydygic
+1673 Thocritonic
+1675 Raga Salagavarali
+1677 Raga Manavi
+1679 Kydian
+1681 Raga Valaji
+1683 Raga Malayamarutam
+1685 Zeracrimic
+1687 Phralian
+1689 Lorimic
+1691 Kathian
+1693 Dogian
+1695 Phrodyllic
+1699 Raga Rasavali
+1701 Dominant Seventh
+1703 Mela Vanaspati
+1705 Raga Manohari
+1707 Dorian Flat 2
+1709 Dorian
+1711 Adonai Malakh
+1713 Raga Khamas
+1715 Harmonic Minor Inverse
+1717 Mixolydian
+1719 Lyryllic
+1721 Mela Vagadhisvari
+1723 JG Octatonic
+1725 Minor Bebop
+1727 Sydygic
+1733 Raga Sarasvati
+1735 Mela Navanitam
+1737 Raga Madhukauns
+1739 Mela Sadvidhamargini
+1741 Lydian Diminished
+1743 Epigyllic
+1745 Raga Vutari
+1747 Mela Ramapriya
+1749 Acoustic
+1751 Aeolyryllic
+1753 Hungarian Major
+1755 Octatonic
+1757 Scale 1757
+1759 Pylygic
+1763 Katalian
+1765 Lonian
+1767 Dyryllic
+1769 Blues Heptatonic II
+1771 Scale 1771
+1773 Blues Scale II
+1775 Lyrygic
+1777 Saptian
+1779 Zynyllic
+1781 Gocryllic
+1783 Youlan Scale
+1785 Tharyllic
+1787 Mycrygic
+1789 Blues Enneatonic II
+1791 Aerygyllian
+1809 Ranitonic
+1811 Kyptimic
+1813 Katothimic
+1815 Godian
+1817 Phrythimic
+1819 Pydian
+1821 Aeradian
+1823 Phralyllic
+1827 Katygimic
+1829 Pathimic
+1831 Pothian
+1833 Ionacrimic
+1835 Byptian
+1837 Dalian
+1839 Zogyllic
+1841 Thogimic
+1843 Ionygian
+1845 Lagian
+1847 Thacryllic
+1849 Chromatic Hypodorian Inverse
+1851 Zacryllic
+1853 Maryllic
+1855 Gaptygic
+1861 Phrygimic
+1863 Pycrian
+1865 Thagimic
+1867 Solian
+1869 Katyrian
+1871 Aeolyllic
+1873 Dathimic
+1875 Persichetti Scale
+1877 Aeroptian
+1879 Mixoryllic
+1881 Katorian
+1883 Scale 1883
+1885 Saptyllic
+1887 Aerocrygic
+1891 Thalian
+1893 Ionylian
+1895 Salyllic
+1897 Ionopian
+1899 Moptyllic
+1901 Ionidyllic
+1903 Rocrygic
+1905 Katacrian
+1907 Lynyllic
+1909 Epicryllic
+1911 Messiaen Mode 3
+1913 Scale 1913
+1915 Thydygic
+1917 Sacrygic
+1919 Rocryllian
+1929 Aeolycrimic
+1931 Stogian
+1933 Mocrian
+1935 Mycryllic
+1937 Galimic
+1939 Dathian
+1941 Aeranian
+1943 Scale 1943
+1945 Zarian
+1947 Byptyllic
+1949 Mathyllic
+1951 Marygic
+1955 Sonian
+1957 Pyrian
+1959 Katolyllic
+1961 Soptian
+1963 Epocryllic
+1965 Raga Mukhari
+1967 Diatonic Dorian Mixed
+1969 Stylian
+1971 Aerynyllic
+1973 Zyryllic
+1975 Ionocrygic
+1977 Dagyllic
+1979 Aeradygic
+1981 Houseini
+1983 Soryllian
+1989 Dydian
+1991 Phryptyllic
+1993 Katoptian
+1995 Aeolacryllic
+1997 Raga Cintamani
+1999 Zacrygic
+2001 Gydian
+2003 Podyllic
+2005 Gygyllic
+2007 Stonygic
+2009 Stacryllic
+2011 Raphygic
+2013 Mocrygic
+2015 Messiaen Mode 7
+2019 Palyllic
+2021 Katycryllic
+2023 Zodygic
+2025 Scale 2025
+2027 Boptygic
+2029 Kiourdi
+2031 Gadyllian
+2033 Stolyllic
+2035 Aerythygic
+2037 Sythygic
+2039 Danyllian
+2041 Aeolacrygic
+2043 Maqam Tarzanuyn
+2045 Katogyllian
+2047 Chromatic Undecamode
+2185 Dygic
+2187 Ionothitonic
+2189 Zagitonic
+2191 Thydimic
+2193 Thaptic
+2195 Zalitonic
+2197 Raga Hamsadhvani
+2199 Dyptimic
+2201 Ionagitonic
+2203 Dorimic
+2205 Ionocrimic
+2207 Mygian
+2211 Raga Gauri
+2213 Raga Desh
+2215 Ranimic
+2217 Kagitonic
+2219 Phrydimic
+2221 Raga Sindhura Kafi
+2223 Konian
+2225 Ionian Pentatonic
+2227 Raga Gaula
+2229 Raga Nalinakanti
+2231 Macrian
+2233 Donimic
+2235 Bathian
+2237 Epothian
+2239 Dacryllic
+2245 Raga Vaijayanti
+2247 Raga Vijayasri
+2249 Raga Multani
+2251 Zodimic
+2253 Raga Amarasenapriya
+2255 Dylian
+2257 Lydian Pentatonic
+2259 Raga Mandari
+2261 Raga Caturangini
+2263 Lycrian
+2265 Raga Rasamanjari
+2267 Padian
+2269 Pygian
+2271 Poptyllic
+2275 Messiaen Mode 5
+2277 Kagimic
+2279 Dyrian
+2281 Rathimic
+2283 Aeolyptian
+2285 Aerogian
+2287 Lodyllic
+2289 Mocrimic
+2291 Zydian
+2293 Gorian
+2295 Kogyllic
+2297 Thylian
+2299 Phraptyllic
+2301 Bydyllic
+2303 Stanygic
+2321 Zyphic
+2323 Doptitonic
+2325 Pynitonic
+2327 Epalimic
+2329 Styditonic
+2331 Dylimic
+2333 Stynimic
+2335 Epydian
+2339 Raga Kshanika
+2341 Raga Priyadharshini
+2343 Tharimic
+2345 Raga Chandrakauns
+2347 Raga Viyogavarali
+2349 Raga Ghantana
+2351 Gynian
+2353 Raga Girija
+2355 Raga Lalita
+2357 Raga Sarasanana
+2359 Gadian
+2361 Docrimic
+2363 Kataptian
+2365 Sythian
+2367 Laryllic
+2373 Dyptitonic
+2375 Aeolaptimic
+2377 Bartók Gamma Chord
+2379 Raga Gurjari Todi
+2381 Takemitsu Linea Mode 1
+2383 Katorian
+2385 Aeolanitonic
+2387 Paptimic
+2389 Eskimo Hexatonic 2
+2391 Molian
+2393 Zathimic
+2395 Zoptian
+2397 Stagian
+2399 Zanyllic
+2403 Lycrimic
+2405 Katalimic
+2407 Zylian
+2409 Zacrimic
+2411 Aeolorian
+2413 Locrian Natural 2
+2415 Lothyllic
+2417 Kanimic
+2419 Raga Lalita
+2421 Malian
+2423 Scale 2423
+2425 Rorian
+2427 Katoryllic
+2429 Kadyllic
+2431 Gythygic
+2441 Kyritonic
+2443 Panimic
+2445 Zadimic
+2447 Thagian
+2449 Zacritonic
+2451 Raga Bauli
+2453 Raga Latika
+2455 Bothian
+2457 Augmented
+2459 Ionocrian
+2461 Sagian
+2463 Ionathyllic
+2467 Raga Padi
+2469 Raga Bhinna Pancama
+2471 Mela Ganamurti
+2473 Raga Takka
+2475 Neapolitan Minor
+2477 Harmonic Minor
+2479 Harmonic and Neapolitan Minor Mixed
+2481 Raga Paraju
+2483 Double Harmonic
+2485 Harmonic Major
+2487 Dothyllic
+2489 Mela Gangeyabhusani
+2491 Layllic
+2493 Manyllic
+2495 Aeolocrygic
+2501 Ralimic
+2503 Mela Jhalavarali
+2505 Mydimic
+2507 Todi That
+2509 Double Harmonic Minor
+2511 Aeroptyllic
+2513 Aerycrimic
+2515 Chromatic Hypolydian
+2517 Harmonic Lydian
+2519 Dathyllic
+2521 Mela Dhatuvardhani
+2523 Mirage Scale
+2525 Aeolaryllic
+2527 Phradygic
+2531 Danian
+2533 Podian
+2535 Messiaen Mode 4
+2537 Laptian
+2539 Half-Diminished Bebop
+2541 Algerian
+2543 Dydygic
+2545 Thycrian
+2547 Raga Ramkali
+2549 Rydyllic
+2551 Thocrygic
+2553 Aeolaptyllic
+2555 Bythygic
+2557 Dothygic
+2559 Zogyllian
+2595 Rolitonic
+2597 Raga Rasranjani
+2599 Malimic
+2601 Raga Chandrakauns
+2603 Gadimic
+2605 Rylimic
+2607 Aerolian
+2609 Raga Bhinna Shadja
+2611 Raga Vasanta
+2613 Raga Hamsa Vinodini
+2615 Thoptian
+2617 Pylimic
+2619 Ionyrian
+2621 Ionogian
+2623 Aerylyllic
+2629 Raga Shubravarni
+2631 Macrimic
+2633 Bartók Beta Chord
+2635 Gocrimic
+2637 Raga Ranjani
+2639 Dothian
+2641 Raga Hindol
+2643 Raga Hamsanandi
+2645 Raga Mruganandana
+2647 Dadian
+2649 Aeolythimic
+2651 Panian
+2653 Sygian
+2655 Scale 2655
+2659 Katynimic
+2661 Stydimic
+2663 Lalian
+2665 Aeradimic
+2667 Byrian
+2669 Jeths' Mode
+2671 Aerolyllic
+2673 Mythimic
+2675 Chromatic Lydian
+2677 Thodian
+2679 Rathyllic
+2681 Aerycrian
+2683 Thodyllic
+2685 Ionoryllic
+2687 Thacrygic
+2697 Katagitonic
+2699 Sythimic
+2701 Hawaiian
+2703 Galian
+2705 Raga Mamata
+2707 Banimic
+2709 Raga Kumud
+2711 Stolian
+2713 Porimic
+2715 Kynian
+2717 Epygian
+2719 Zocryllic
+2723 Raga Jivantika
+2725 Raga Nagagandhari
+2727 Mela Manavati
+2729 Aeragimic
+2731 Neapolitan Major
+2733 Melodic Minor Ascending
+2735 Gynyllic
+2737 Raga Hari Nata
+2739 Mela Suryakanta
+2741 Major
+2743 Staptyllic
+2745 Mela Sulini
+2747 Stythyllic
+2749 Katagyllic
+2751 Sylygic
+2757 Raga Nishadi
+2759 Mela Pavani
+2761 Dagimic
+2763 Mela Suvarnangi
+2765 Lydian Flat 3
+2767 Katydyllic
+2769 Dyrimic
+2771 Marva That
+2773 Lydian
+2775 Godyllic
+2777 Aeolian Harmonic
+2779 Shostakovich
+2781 Gycryllic
+2783 Gothygic
+2787 Zyrian
+2789 Zolian
+2791 Mixothyllic
+2793 Eporian
+2795 Van der Horst Octatonic
+2797 Stalyllic
+2799 Epilygic
+2801 Zogian
+2803 Raga Bhatiyar
+2805 Ishikotsucho
+2807 Zylygic
+2809 Gythyllic
+2811 Barygic
+2813 Zolygic
+2815 Aeradyllian
+2833 Dolitonic
+2835 Ionygimic
+2837 Aelothimic
+2839 Lyptian
+2841 Sothimic
+2843 Sorian
+2845 Baptian
+2847 Phracryllic
+2851 Katoptimic
+2853 Baptimic
+2855 Epocrain
+2857 Stythimic
+2859 Phrycrian
+2861 Katothian
+2863 Aerogyllic
+2865 Solimic
+2867 Socrian
+2869 Major Augmented
+2871 Stanyllic
+2873 Ionian Augmented Sharp 2
+2875 Ganyllic
+2877 Phrylyllic
+2879 Stadygic
+2885 Byrimic
+2887 Gaptian
+2889 Thoptimic
+2891 Phrogian
+2893 Lylian
+2895 Aeoryllic
+2897 Rycrimic
+2899 Kagian
+2901 Lydian Augmented
+2903 Gothyllic
+2905 Aeolian Flat 1
+2907 Magen Abot 2
+2909 Mocryllic
+2911 Katygic
+2915 Aeolydian
+2917 Nohkan Flute Scale
+2919 Molyllic
+2921 Pogian
+2923 Baryllic
+2925 Diminished
+2927 Rodygic
+2929 Aeolathian
+2931 Zathyllic
+2933 Scale 2933
+2935 Modygic
+2937 Phragyllic
+2939 Goptygic
+2941 Laptygic
+2943 Dathyllian
+2953 Ionylimic
+2955 Thorian
+2957 Thygian
+2959 Dygyllic
+2961 Bygimic
+2963 Bygian
+2965 Darian
+2967 Madyllic
+2969 Tholian
+2971 Aeolynyllic
+2973 Panyllic
+2975 Aeroptygic
+2979 Gyptian
+2981 Ionolian
+2983 Zythyllic
+2985 Epacrian
+2987 Neapolitan Major and Minor Mixed
+2989 Bebop Minor
+2991 Zanygic
+2993 Stythian
+2995 Raga Saurashtra
+2997 Major Bebop
+2999 Diminishing Nonamode
+3001 Lonyllic
+3003 Genus Chromaticum
+3005 Gycrygic
+3007 Zyryllian
+3013 Thynian
+3015 Laptyllic
+3017 Gacrian
+3019 Scale 3019
+3021 Stodyllic
+3023 Mothygic
+3025 Epycrian
+3027 Rythyllic
+3029 Ionocryllic
+3031 Epithygic
+3033 Doptyllic
+3035 Gocrygic
+3037 Nine Tone Scale
+3039 Godyllian
+3043 Ionayllic
+3045 Raptyllic
+3047 Panygic
+3049 Phrydyllic
+3051 Stalygic
+3053 Zycrygic
+3055 Messiaen Mode 7
+3057 Phroryllic
+3059 Madygic
+3061 Apinygic
+3063 Solyllian
+3065 Zothygic
+3067 Goptyllian
+3069 Maqam Shawq Afza
+3071 Solatic
+3141 Kanitonic
+3143 Polimic
+3145 Stolitonic
+3147 Ryrimic
+3149 Phrycrimic
+3151 Pacrian
+3153 Zathitonic
+3155 Ladimic
+3157 Zyptimic
+3159 Stocrian
+3161 Kodimic
+3163 Rogian
+3165 Mylian
+3167 Thynyllic
+3171 Zythimic
+3173 Zarimic
+3175 Eponian
+3177 Rothimic
+3179 Daptian
+3181 Rolian
+3183 Mixonyllic
+3185 Messiaen Mode 5 Inverse
+3187 Koptian
+3189 Aeolonian
+3191 Bynyllic
+3193 Zathian
+3195 Raryllic
+3197 Gylyllic
+3199 Thaptygic
+3209 Aeraphitonic
+3211 Epacrimic
+3213 Eponimic
+3215 Katydian
+3217 Molitonic
+3219 Ionaphimic
+3221 Bycrimic
+3223 Thyphian
+3225 Ionalimic
+3227 Aeolocrian
+3229 Aeolaptian
+3231 Kataptyllic
+3235 Pothimic
+3237 Raga Brindabani Sarang
+3239 Mela Tanarupi
+3241 Dalimic
+3243 Mela Rupavati
+3245 Mela Varunapriya
+3247 Aeolonyllic
+3249 Raga Tilang
+3251 Mela Hatakambari
+3253 Mela Naganandini
+3255 Daryllic
+3257 Mela Calanata
+3259 Scale 3259
+3261 Dodyllic
+3263 Pyrygic
+3269 Raga Malarani
+3271 Mela Raghupriya
+3273 Raga Jivantini
+3275 Mela Divyamani
+3277 Mela Nitimati
+3279 Pythyllic
+3281 Raga Vijayavasanta
+3283 Mela Visvambhari
+3285 Mela Citrambari
+3287 Phrathyllic
+3289 Lydian Sharp 2 Sharp 6
+3291 Lygyllic
+3293 Saryllic
+3295 Phroptygic
+3299 Syptian
+3301 Chromatic Mixolydian Inverse
+3303 Mylyllic
+3305 Chromatic Hypophrygian
+3307 Boptyllic
+3309 Bycryllic
+3311 Mixodygic
+3313 Aeolacrian
+3315 Tcherepnin Octatonic Mode 1
+3317 Katynyllic
+3319 Tholygic
+3321 Epagyllic
+3323 Lacrygic
+3325 Mixolygic
+3327 Madyllian
+3345 Zylitonic
+3347 Synimic
+3349 Aeolocrimic
+3351 Crater Scale
+3353 Phraptimic
+3355 Bagian
+3357 Phrodian
+3359 Bonyllic
+3363 Rogimic
+3365 Katolimic
+3367 Moptian
+3369 Mixolimic
+3371 Aeolylian
+3373 Lodian
+3375 Scale 3375
+3377 Phralimic
+3379 Verdi's Scala Enigmatica Descending
+3381 Katanian
+3383 Zoptyllic
+3385 Chromatic Phrygian
+3387 Aeryptyllic
+3389 Socryllic
+3391 Aeolynygic
+3397 Sydimic
+3399 Zonian
+3401 Palimic
+3403 Bylian
+3405 Stynian
+3407 Katocryllic
+3409 Katanimic
+3411 Enigmatic
+3413 Leading Whole-tone
+3415 Ionaptyllic
+3417 Golian
+3419 Magen Abot 1
+3421 Aerothyllic
+3423 Lothygic
+3427 Zacrian
+3429 Marian
+3431 Zyptyllic
+3433 Thonian
+3435 Prokofiev
+3437 Scale 3437
+3439 Lythygic
+3441 Thacrian
+3443 Verdi's Scala Enigmatica
+3445 Messiaen Mode 6 Inverse
+3447 Kynygic
+3449 Bacryllic
+3451 Garygic
+3453 Katarygic
+3455 Ryptyllian
+3465 Katathimic
+3467 Katonian
+3469 Monian
+3471 Gyryllic
+3473 Lathimic
+3475 Kylian
+3477 Kyptian
+3479 Rothyllic
+3481 Katathian
+3483 Mixotharyllic
+3485 Sabach
+3487 Byptygic
+3491 Tharian
+3493 Rathian
+3495 Banyllic
+3497 Phrolian
+3499 Hamel
+3501 Maqam Nahawand
+3503 Zyphygic
+3505 Stygian
+3507 Maqam Hijaz
+3509 Stogyllic
+3511 Epolygic
+3513 Dydyllic
+3515 Moorish Phrygian
+3517 Epocrygic
+3519 Raga Sindhi-Bhairavi
+3525 Zocrian
+3527 Ronyllic
+3529 Stalian
+3531 Neveseri
+3533 Thadyllic
+3535 Mylygic
+3537 Katogian
+3539 Aeoryllic
+3541 Racryllic
+3543 Aeolonygic
+3545 Thyptyllic
+3547 Sadygic
+3549 Messiaen Mode 3 Inverse
+3551 Sagyllian
+3555 Pylyllic
+3557 Scale 3557
+3559 Thophygic
+3561 Pothyllic
+3563 Ionoptygic
+3565 Aeolorygic
+3567 Epityllian
+3569 Aeoladyllic
+3571 Dyrygic
+3573 Kaptygic
+3575 Symmetrical Decatonic
+3577 Loptygic
+3579 Zyphyllian
+3581 Epocryllian
+3583 Zylatic
+3619 Thanimic
+3621 Gylimic
+3623 Aerocrian
+3625 Podimic
+3627 Kalian
+3629 Boptian
+3631 Gydyllic
+3633 Daptimic
+3635 Katygian
+3637 Raga Rageshri
+3639 Paptyllic
+3641 Thocrian
+3643 Kydyllic
+3645 Zycryllic
+3647 Eporygic
+3653 Sathimic
+3655 Mathian
+3657 Epynimic
+3659 Polian
+3661 Mixodorian
+3663 Sonyllic
+3665 Stalimic
+3667 Kaptian
+3669 Mothian
+3671 Aeonyllic
+3673 Ranian
+3675 Monyllic
+3677 Scale 3677
+3679 Rycrygic
+3683 Dycrian
+3685 Kodian
+3687 Zonyllic
+3689 Katocrian
+3691 Badyllic
+3693 Stadyllic
+3695 Kodygic
+3697 Ionarian
+3699 Galyllic
+3701 Bagyllic
+3703 Katalygic
+3705 Messiaen Mode 4 Inverse
+3707 Rynygic
+3709 Katynygic
+3711 Dycryllian
+3721 Phragimic
+3723 Myptian
+3725 Kyrian
+3727 Tholyllic
+3729 Starimic
+3731 Aeryrian
+3733 Gycrian
+3735 Scale 3735
+3737 Phrocrian
+3739 Epanyllic
+3741 Zydyllic
+3743 Thadygic
+3747 Myrian
+3749 Raga Sorati
+3751 Aerathyllic
+3753 Phraptian
+3755 Phryryllic
+3757 Raga Mian Ki Malhar
+3759 Darygic
+3761 Raga Madhuri
+3763 Modyllic
+3765 Dominant Bebop
+3767 Chromatic Bebop
+3769 Eponyllic
+3771 Stophygic
+3773 Raga Malgunji
+3775 Loptyllian
+3781 Gyphian
+3783 Phrygyllic
+3785 Epagian
+3787 Kagyllic
+3789 Eporyllic
+3791 Stodygic
+3793 Aeopian
+3795 Epothyllic
+3797 Rocryllic
+3799 Aeralygic
+3801 Maptyllic
+3803 Epidygic
+3805 Moptygic
+3807 Bagyllian
+3811 Epogyllic
+3813 Aeologyllic
+3815 Galygic
+3817 Zoryllic
+3819 Aeolanygic
+3821 Epyrygic
+3823 Epinyllian
+3825 Pynyllic
+3827 Bodygic
+3829 Taishikicho
+3831 Ionyllian
+3833 Dycrygic
+3835 Katodyllian
+3837 Minor Pentatonic With Leading Tones
+3839 Mixolatic
+3857 Ponimic
+3859 Aeolarian
+3861 Phroptian
+3863 Eparyllic
+3865 Starian
+3867 Storyllic
+3869 Bygyllic
+3871 Aerynygic
+3875 Aeryptian
+3877 Thanian
+3879 Pathyllic
+3881 Morian
+3883 Kyryllic
+3885 Styryllic
+3887 Phrathygic
+3889 Parian
+3891 Ryryllic
+3893 Phrocryllic
+3895 Eparygic
+3897 Kalyllic
+3899 Katorygic
+3901 Bycrygic
+3903 Aeogyllian
+3909 Rydian
+3911 Katyryllic
+3913 Bonian
+3915 Scale 3915
+3917 Katoptyllic
+3919 Lynygic
+3921 Pythian
+3923 Stoptyllic
+3925 Thyryllic
+3927 Monygic
+3929 Aeolothyllic
+3931 Aerygic
+3933 Ionidygic
+3935 Kataphyllian
+3939 Dogyllic
+3941 Stathyllic
+3943 Zynygic
+3945 Lydyllic
+3947 Ryptygic
+3949 Koptygic
+3951 Mathyllian
+3953 Thagyllic
+3955 Pothygic
+3957 Porygic
+3959 Katagyllian
+3961 Zathygic
+3963 Aeoryllian
+3965 Messiaen Mode 7 Inverse
+3967 Soratic
+3977 Kythian
+3979 Dynyllic
+3981 Phrycryllic
+3983 Thyptygic
+3985 Thadian
+3987 Loryllic
+3989 Sythyllic
+3991 Badygic
+3993 Ioniptyllic
+3995 Ionygic
+3997 Dogygic
+3999 Dydyllian
+4003 Sadyllic
+4005 Scale 4005
+4007 Doptygic
+4009 Phranyllic
+4011 Styrygic
+4013 Raga Pilu
+4015 Phradyllian
+4017 Dolyllic
+4019 Lonygic
+4021 Raga Pahadi
+4023 Styptyllian
+4025 Kalygic
+4027 Ragyllian
+4029 Major/Minor Mixed
+4031 Godatic
+4037 Ionyllic
+4039 Ionogygic
+4041 Zaryllic
+4043 Phrocrygic
+4045 Gyptygic
+4047 Thogyllian
+4049 Stycryllic
+4051 Ionilygic
+4053 Kyrygic
+4055 Dagyllian
+4057 Phrygic
+4059 Zolyllian
+4061 Staptyllian
+4063 Eptatic
+4067 Aeolarygic
+4069 Starygic
+4071 Rygyllian
+4073 Sathygic
+4075 Katyllian
+4077 Gothyllian
+4079 Ionatic
+4081 Manygic
+4083 Bathyllian
+4085 Rechberger's Decamode
+4087 Aeolatic
+4089 Katoryllian
+4091 Thydatic
+4093 Aerycratic
+4095 Chromatic

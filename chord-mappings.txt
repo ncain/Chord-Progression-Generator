@@ -1,0 +1,58 @@
+Augmented chord,Augmented,0 4 8
+Augmented eleventh chord,Major,0 2 4 6 7 10
+Augmented major seventh chord,Augmented,0 4 8 11
+Augmented seventh chord,Augmented,0 4 8 10
+Augmented sixth chord (Italian),Predominant,0 6 10
+Diminished chord,Diminished,0 3 6
+Diminished major seventh chord,Diminished,0 3 6 11
+Diminished seventh chord (leading-tone and secondary chord),Diminished,0 3 6 9
+Dominant eleventh chord,Major,0 2 4 5 7 10
+Dominant minor ninth,Major,0 1 4 7 10
+Dominant ninth,Major,0 2 4 7 10
+Dominant seventh flat five chord,Diminished,0 4 6 10
+Dominant seventh sharp nine / Hendrix chord,Major,0 3 4 7 10
+Dominant thirteenth chord,Major,0 2 4 5 7 9 10
+Dream chord,Just,0 5 6 7
+Elektra chord,Bitonal,0 1 4 7 9
+Farben chord,Atonal,0 4 8 9 11
+Half-diminished seventh chord,Diminished,0 3 6 10
+Harmonic seventh chord,Major,0 4 7 10
+Lydian chord,Major,0 4 6 7 11
+Magic chord,Just,0 1 3 5 6 10
+Major chord,Major,0 4 7
+Major eleventh chord,Major,0 2 4 5 7 11
+Major seventh chord,Major,0 4 7 11
+Major seventh sharp eleventh chord,Augmented,0 4 6 8 11
+Major sixth chord,Major,0 4 7 9
+Major sixth ninth chord ("Major 6 add 9"),Major,0 2 4 7 9
+Major ninth chord,Major,0 2 4 7 11
+Major thirteenth chord,Major,0 2 4 6 7 9 11
+Minor chord,Minor,0 3 7
+Minor eleventh chord,Minor,0 2 3 5 7 10
+Minor major seventh chord,Minor,0 3 7 11
+Minor ninth chord,Minor,0 2 3 7 10
+Minor seventh chord,Minor,0 3 7 10
+Minor sixth chord,Minor,0 3 7 9
+Minor sixth ninth chord ("Minor 6 add 9"),Minor,0 2 3 7 9
+Minor thirteenth chord,Minor,0 2 3 5 7 9 10
+Mu chord,Major,0 2 4 7
+Mystic chord,Atonal,0 2 4 6 9 10
+Neapolitan chord,Major,1 5 8
+Ninth augmented fifth chord,Augmented,0 2 4 8 10
+Ninth flat fifth chord,M3+d5,0 2 4 6 10
+Northern lights chord,Atonal,0 1 2 3 4 6 7 8 10 11
+"Ode-to-Napoleon" hexachord,Atonal,0 1 4 5 8 9
+Petrushka chord,Bitonal,0 1 4 6 7 10
+Power chord,Indeterminate,0 7
+Seven six chord,Major,0 4 7 9 10
+Seventh suspension four chord,Suspended,0 5 7 10
+So What chord,Bitonal,0 3 5 7 10
+Suspended chord,Suspended,0 5 7
+Thirteenth flat ninth chord,Major,0 1 4 7 9 10
+Thirteenth flat ninth chord,Major,0 1 4 5 7 9 10
+Thirteenth flat ninth chord,Major,0 1 4 6 7 9 10
+Thirteenth flat ninth flat fifth chord,M3+d5,0 1 4 6 10
+Thirteenth flat ninth flat fifth chord,M3+d5,0 1 4 5 6 10
+Thirteenth flat ninth flat fifth chord,M3+d5,0 1 4 6 10
+Viennese trichord (root voicing),Atonal,0 1 6
+Viennese trichord (fifth voicing),Atonal,0 6 7
