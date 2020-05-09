@@ -83,6 +83,8 @@ If you make something cool using this, please tell me about it.
 
 ## Acknowledgments
 
-* I took this readme template from [DomPizzie here on GitHub](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* I couldn't have gotten my head around this problem without [Ian Ring](https://ianring.com/musictheory/scales/)
+
 * The folks who made the packages I imported saved me a mountain of time, so thanks an awful lot to [jiaaro](https://github.com/jiaaro), [yuma-m](https://github.com/yuma-m), and [antscloud](https://github.com/antscloud)!
+* I took this readme template from [DomPizzie here on GitHub](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc).
+* I couldn't have gotten my head around this problem without [Ian Ring](https://ianring.com/musictheory/scales/).
+* This [Wikipedia](https://en.wikipedia.org/wiki/List_of_chords) article was also a huge deal, and some others I've forgotten helped too.
