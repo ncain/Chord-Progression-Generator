@@ -1,6 +1,6 @@
-# Project Title
+# A Simple Chord Progression Generator
 
-A Simple Chord Progression Generator
+A Simple Chord Progression Generator (ASCPC, pronounced 'aspic' just like the horrid gelatin artifacts) is a dumb Python script to simulate creativity in guitar composition.
 
 ## Description
 
